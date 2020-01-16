@@ -1,0 +1,1 @@
+we are using bind method for bind a object in a method. whome that object can't take other value. only take value which I am going to binding
